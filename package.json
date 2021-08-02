@@ -1,0 +1,8 @@
+{
+  "name": "node-watermark",
+  "packageManager": "yarn@3.0.0",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
